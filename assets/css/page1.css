@@ -1,0 +1,117 @@
+.navbar-expand-lg .navbar-collapse {
+  justify-content: flex-end;
+  padding-right: 130px;
+}
+
+.nav-link {
+  color: aliceblue;
+  font-size: x-large;
+}
+
+.container-fluid {
+  padding-left: 6rem;
+}
+
+.navbar {
+  background-color: transparent !important;
+}
+
+.page {
+  background-image: url("https://preview.colorlib.com/theme/podca/images/hero_bg_1.jpg.webp");
+  width: 100%;
+  height: 120vh;
+  background-size: cover;
+}
+.page .yazi {
+  margin: 200px 340px;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 50px;
+  color: azure;
+  justify-content: center;
+}
+
+h6 {
+  font-size: large;
+  color: azure;
+  padding-left: 150px;
+}
+
+button {
+  border: solid coral;
+  padding: 5px 25px;
+  background-color: transparent;
+  font-size: large;
+  color: rgb(255, 255, 255);
+  margin-left: 200px;
+}
+
+.page2 {
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 270vh;
+  background-size: cover;
+}
+
+.music {
+  justify-content: center;
+}
+
+.theme-title {
+  text-align: center;
+  padding: 50px 50px;
+}
+
+.theme-title h2 {
+  position: relative;
+  color: #292929;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.theme-title p {
+  font-size: 16px;
+  width: 75%;
+  margin: 60px auto 0 auto;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.page3 {
+  background-color: rgb(51, 51, 50);
+  width: 100%;
+  height: 120vh;
+  background-size: cover;
+}
+
+.page3 .theme-title h2 {
+  position: relative;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.page3 .theme-title p {
+  color: #fffefe;
+  font-size: 16px;
+  width: 75%;
+  margin: 60px auto 0 auto;
+}
+
+.cards2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.page4 {
+  background-color: rgb(247, 247, 247);
+  width: 100%;
+  height: 150vh;
+  background-size: cover;
+}
